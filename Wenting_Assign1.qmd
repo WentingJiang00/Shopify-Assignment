@@ -1,0 +1,59 @@
+---
+title: "IBM6300-Shopify Store - Assignment 1"
+author: "Wenting Jiang"
+date: today
+
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Evidence of Shopify Learning Completion
+
+The following screenshot shows completion of the required Shopify Academy learning modules.
+
+![Shopify Learning Completion](shopify_complete.png)
+
+# Shopify Admin Exploration Screenshot
+
+The following screenshot shows access to the Shopify Admin dashboard.
+
+![Shopify Admin Dashboard](shopify_admin.png)
+
+# Feature Reflection
+
+## Product Management
+
+Shopify allows businesses to add, edit, and organize products. Store owners can manage inventory, pricing, and product information in one place.
+
+## Customer Management
+
+Shopify stores customer information and purchase history. This helps businesses better understand customer behavior and improve customer relationships.
+
+## Analytics
+
+Shopify provides analytics tools that track sales, website traffic, and customer activity. These reports help businesses make informed decisions.
+
+## Discounts and Promotions
+
+Shopify allows businesses to create discount codes and promotional campaigns. These tools can encourage repeat purchases and attract new customers.
+
+## Online Store Themes
+
+Shopify provides customizable themes that allow businesses to create professional online stores without advanced coding skills.
+
+# CPP Farm Store Application Reflection
+
+Shopify could help CPP Farm Store expand its online presence and reach more customers beyond the local area. The platform would allow the Farm Store to sell specialty products, gift baskets, preserves, sauces, and seasonal products online. Shopify’s analytics and customer management tools could help the store better understand customer preferences and improve marketing efforts. Shopify could also support loyalty programs, promotions, and online ordering, helping the Farm Store increase sales while maintaining its farm-to-community identity.
+
+# Appendix
+
+Additional screenshots and supporting materials are included below.
