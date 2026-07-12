@@ -1,0 +1,102 @@
+---
+title: "ITP-Shopify Store - Assignment 4 - Collections and Navigation"
+author: "Wenting Jiang"
+date: July11,2026
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+    df-print: paged
+editor: visual
+execute:
+  freeze: auto
+  echo: false
+---
+
+# Introduction
+
+This report documents the collection and navigation structure created for my Shopify practice store, **EverCharm**. EverCharm is a jewelry boutique focused on elegant everyday accessories, including crystal bracelets, premium bracelets, and rings. The goal of this assignment was to organize products into clear collections and create a navigation structure that helps customers browse the store more easily.
+
+::: callout-note
+## Store Organization Goal
+
+The main goal of the collection and navigation setup is to help customers find similar products quickly, compare options easily, and understand the overall assortment of the EverCharm store.
+:::
+
+# Collections and Categories
+
+I created multiple Shopify collections to organize the product catalog. The primary collections used in the store are **Crystal Bracelets**, **Rings**, and **Premium Bracelets**. These collections separate products by product type and shopping purpose, which makes the assortment easier to browse.
+
+| Collection Name | Product Count | Purpose |
+|----|---:|----|
+| Crystal Bracelets | 7 | Groups handcrafted crystal bracelet products together for easy browsing. |
+| Rings | 3 | Organizes sterling silver ring products into one focused collection. |
+| Premium Bracelets | 3 | Highlights higher-end bracelet products with a more premium style. |
+| Home page | 7 | Displays selected products on the homepage as a featured collection. |
+
+## Collections in Shopify Admin
+
+@fig-admin-collections shows the collections created in the Shopify admin. This screenshot provides evidence that the store includes at least three collections/categories.
+
+![Shopify Admin - Collections Overview](images/fig1-admin-collections.png){#fig-admin-collections fig-align="center" width="95%"}
+
+## Collection Detail Example
+
+@fig-admin-detail shows the **Crystal Bracelets** collection detail page in the Shopify admin. This page includes the collection title, description, image, publishing information, and the products assigned to the collection.
+
+![Shopify Admin - Crystal Bracelets Collection Detail](images/fig2-collection-admin-detail.png){#fig-admin-detail fig-align="center" width="95%"}
+
+::: callout-tip
+## Why Collection Details Matter
+
+A complete collection page gives customers context before they shop. The collection title and description explain the product group, while the assigned products make the collection functional on the storefront.
+:::
+
+# Storefront Collection Page
+
+@fig-storefront-collection shows the **Crystal Bracelets** collection page on the storefront. This page allows customers to see the collection title, read the description, filter products, sort products, and browse the product grid.
+
+![Storefront - Crystal Bracelets Collection Page](images/fig3-storefront-collection.png){#fig-storefront-collection fig-align="center" width="95%"}
+
+# Navigation Menu
+
+I revised the main navigation menu to make the major product sections easier to access. The store navigation includes **Home**, **Catalog**, and **Contact**. The Catalog menu includes a dropdown with direct links to the main collections: **Crystal Bracelets**, **Rings**, and **Premium Bracelets**.
+
+@fig-navigation-menu shows the storefront navigation menu with the Catalog dropdown open.
+
+![Storefront - Main Navigation Menu with Collection Dropdown](images/fig4-navigation-menu.png){#fig-navigation-menu fig-align="center" width="95%"}
+
+::: panel-tabset
+## Navigation Structure
+
+-   Home
+-   Catalog
+    -   Crystal Bracelets
+    -   Rings
+    -   Premium Bracelets
+-   Contact
+
+## Customer Benefit
+
+The dropdown menu reduces the number of clicks needed to reach important product categories. Customers can move directly from the homepage to the collection they want to browse.
+:::
+
+# Merchandising Logic Explanation
+
+I organized the EverCharm products into collections based on product type and customer shopping behavior. The **Crystal Bracelets** collection groups together the main bracelet assortment, while **Premium Bracelets** separates higher-end bracelet styles from the regular bracelet collection. The **Rings** collection gives ring shoppers a clear place to compare ring designs without sorting through unrelated products. This structure supports the store concept because EverCharm focuses on elegant, giftable, and everyday jewelry. By separating products into meaningful collections, the store feels more organized and helps customers understand the assortment more quickly.
+
+# Customer Experience Explanation
+
+The navigation structure helps customers find products quickly by organizing them into clear collections. The Catalog dropdown allows customers to browse Crystal Bracelets, Rings, and Premium Bracelets, making the shopping experience more organized and user-friendly.
+
+# CPP Farm Store Application Reflection
+
+CPP Farm Store could organize products into clear collections such as Fresh Produce, Dairy, Bakery, and Seasonal Items. A simple navigation menu and well-organized categories would help customers find products quickly and improve the overall online shopping experience.
+
+# Conclusion
+
+This assignment helped me understand how collections and navigation menus support the customer shopping experience in an online store. For EverCharm, the collections organize products by type and style, while the navigation menu makes these sections easy to access. Together, these elements make the store easier to browse and help customers understand the product assortment more clearly.
