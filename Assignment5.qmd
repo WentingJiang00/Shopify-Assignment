@@ -1,0 +1,92 @@
+---
+title: "Assignment 5: Storefront Design and Customer Experience"
+author: Wenting Jiang
+date: "2026-07-22"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    smooth-scroll: true
+    embed-resources: true
+    code-fold: true
+    fig-align: center
+  docx: default
+execute:
+  echo: false
+---
+
+## Store Overview
+
+**Store name:** EverCharm\
+**Platform:** Shopify\
+**Theme:** Dawn
+
+EverCharm is a new fashion jewelry brand founded in 2026. The store focuses on elegant, wearable jewelry inspired by butterflies, pearls, flowers, crystals, and soft romantic details. The purpose of the storefront redesign was to make the brand easier to understand, improve product discovery, and create a more polished and trustworthy shopping experience.
+
+## Homepage Improvement Evidence
+
+I improved the homepage by creating a clearer visual hierarchy and adding stronger pathways for customers to explore the store. The hero banner now communicates the brand style through high-quality jewelry photography, the headline **“Timeless Beauty, Every Day,”** and the supporting message **“Inspired by Nature, Made to Shine.”**
+
+I also updated the image banner by replacing the original image and changing the banner size from large to medium. I felt that the medium size created a more balanced layout and better matched the overall design of my homepage.
+
+I added a functional **Shop Collection** call-to-action button that links customers directly to the product collection. The navigation menu was also improved by adding **New Arrivals** and **About Us**, helping customers quickly find new products and learn about the EverCharm brand story.
+
+![](images/Homepage.png)
+
+### Homepage Changes
+
+-   Added a clear brand-focused hero banner.
+-   Added a functional **Shop Collection** CTA.
+-   Added **New Arrivals** to improve product discovery.
+-   Added an **About Us** page and navigation link.
+-   Improved the visual consistency of the homepage using soft neutral colors and jewelry-focused photography.
+
+## Products/Collections Page Improvement Evidence
+
+I improved the Products collection page by creating a more consistent visual presentation across different jewelry categories. All crystal bracelet and ring product images were formatted in a square layout, which makes the product grid look cleaner and allows customers to compare these items more easily.
+
+For the premium bangle products, I used a rectangular image format because this shape presents the longer and wider design of the bangles more effectively. Although the image formats are different across categories, each product type now follows a consistent presentation style.
+
+I also revised and standardized the product names. Instead of using simple or generic titles, each product was given a distinctive and meaningful name inspired by its color, materials, shape, or design details. Examples include **Blushing Bloom**, **Butterfly Duet Ring**, **Cherry Blossom Whisper**, **Diamond Weave**, and **Morning Dew**. These names make the collection feel more polished, memorable, and consistent with the romantic style of the EverCharm brand.
+
+The collection page also includes visible prices, availability and price filters, and an alphabetical sorting option. These features help customers browse, compare, and find products more efficiently.
+
+![](images/collection.png){width="542"}
+
+![](images/Prodects:collections.png){width="542"}
+
+## Customer Experience Features
+
+### Improved Cart and Checkout Experience
+
+I improved the shopping experience by providing a clear and organized cart page where customers can review selected products, adjust quantities, remove items, continue shopping, and view the estimated total before checkout.
+
+The checkout page also provides several convenient payment options, including Shop Pay, PayPal, Google Pay, Venmo, and major credit cards. These options make the checkout process faster, more flexible, and easier for different customers.
+
+![](images/cart.png){width="542"}
+
+### Added a Clear Brand Story
+
+I created an **About Us** page to introduce EverCharm’s background, design inspiration, and brand values. The page explains that EverCharm was founded in 2026 and that its jewelry designs are inspired by butterflies, pearls, flowers, and romantic details.
+
+This brand story helps customers understand the meaning and inspiration behind the products. It also gives the store a more personal identity and helps build trust with customers.
+
+![](images/about%20us.png){width="542"}
+
+### Added Email Subscription and Customer Support Options
+
+I added an email subscription section so customers can sign up to receive store updates, new product announcements, and promotional information.
+
+The Contact page also includes a simple form where customers can enter their name, email address, phone number, and message. This makes it easier for customers to ask questions and communicate directly with the store.
+
+![](images/contact-01.png){width="542"}
+
+## 5. Customer Journey Reflection
+
+A customer begins on the EverCharm homepage, where the hero banner immediately communicates the store’s jewelry style and brand message. The customer can click the **Shop Collection** button or use the navigation menu to explore **New Arrivals** or a specific jewelry category. On the collection page, the customer can compare product images, names, and prices. After selecting a product, the customer moves to the product page, where they can review multiple images, read the description, check the price, select a quantity, and add the item to the cart. The improved navigation, clear CTA, consistent product photography, and detailed product information create a smoother path from discovery to purchase.
+
+## 6. CPP Farm Store Application Reflection
+
+CPP Farm Store should design its online storefront around a clear **fresh, local, and sustainable** identity. The homepage should quickly show what the store sells, including fresh produce, flowers, gift boxes, and locally made goods. High-quality product and farm photography can help customers understand the connection between the products, the Cal Poly Pomona farm, and student learning. The website should also use simple navigation, clear product categories, seasonal featured items, and strong calls to action such as **Shop Now** and **Visit the Farm Store**. Store hours, address, parking information, and contact details should be easy to find. Finally, the website should explain how purchases support students and agricultural education, because this mission can strengthen trust and make the Farm Store different from other retailers.
+
