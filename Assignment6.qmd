@@ -1,0 +1,50 @@
+---
+title: "Shopify Store-Assignment 6: Checkout, Policies, and Trust Signals"
+author: "Wenting Jiang"
+date: "July 26, 2026"
+format:
+  html:
+    embed-resources: true
+editor: visual
+---
+
+## 1. Checkout Review Evidence
+
+I reviewed the checkout settings for the EverCharm Shopify store. Customers can check out using their email address without being required to create or sign in to an account. The checkout requires the customer's first and last name, while the apartment address line and shipping phone number are optional. The checkout language is set to English, and tipping is disabled because it is not necessary for this jewelry store.
+
+![](checkout.png){height="800px"}
+
+## 2. Shipping Information
+
+EverCharm currently provides standard shipping within the United States. Orders are processed within 1–3 business days, and delivery usually takes 3–7 business days after processing. Customers receive tracking information by email after their order has shipped.
+
+![](shipping.png){width="70%"}
+
+## 3. Return and Refund Policy
+
+EverCharm accepts returns within 14 days of delivery. Returned items must be unused, unworn, and in their original packaging. Customers are responsible for return shipping unless the product arrives damaged, defective, or incorrect. Approved refunds are issued to the original payment method after the returned item has been inspected.
+
+![](return1.png){width="70%" height="350px"}
+
+![](return2.png){width="70%" height="350px"}
+
+## 4. Privacy Policy
+
+EverCharm collects only the customer information needed to process orders, arrange shipping, communicate with customers, and operate the online store. Necessary information may be shared with trusted service providers such as Shopify, payment processors, and shipping carriers. The store does not sell customers’ personal information.
+
+![](privacy.png){width="70%" height="350px"}
+
+## 5. Contact Information
+
+EverCharm provides clear contact information so customers can easily ask questions about products, orders, shipping, returns, or refunds. Customers can contact the store by email at wentingjiang\@cpp.edu or by phone at (626) 344-5560. Providing visible contact details makes the store appear more accessible and trustworthy.
+
+![](contact.png){width="70%" height="350px"}
+
+## 6. Trust Signals Reflection
+
+Clear store policies and contact information can make customers feel more confident when shopping at EverCharm. Shipping information helps customers understand delivery times and costs, while the return and refund policy explains what they can do if an item is damaged or does not meet their expectations. The privacy policy shows that the store takes customer information seriously. Visible contact information also makes the store appear more reliable because customers know how to ask questions or request assistance.
+
+## 7. CPP Farm Store Application Reflection
+
+For the CPP Farm Store, the most important trust signals would be clear product information, accurate pricing, pickup instructions, product origin, and visible contact information. Customers may purchase fresh produce, food products, or items made through Cal Poly Pomona programs, so they need to know where the products come from, how they should be stored, and when and where they can be picked up. Clear return or refund information is also important in case an order is incorrect or damaged. The connection to Cal Poly Pomona can further increase customer confidence because the university is a recognizable and trusted institution.
+
