@@ -1,0 +1,78 @@
+---
+title: "Assignment 7: GA4 Setup and Shopify Integration"
+author: "Wenting Jiang"
+date: July 30,2026
+format:
+  html:
+    embed-resources: true
+editor: visual
+---
+
+# Introduction
+
+The purpose of this report is to document my attempt to connect my EverCharm Shopify practice store to Google Analytics 4. The report includes evidence of the GA4 web stream, the Shopify connection, available analytics data, and the technical issue I experienced during the setup process.
+
+My Shopify website is:
+
+[EverCharm Shopify Store](https://wenting-practice-store.myshopify.com)
+
+# GA4 Property and Web Stream Evidence
+
+I created a new GA4 property for the EverCharm Shopify Store because this is a new website. I also created a separate web data stream so the data from this store would not be mixed with the GA4 property that I used during a previous semester.
+
+The stream was named **EverCharm Shopify Website**, and the Shopify store URL was entered as the stream URL. Enhanced Measurement was also turned on so GA4 could collect page views, scrolling activity, outbound clicks, and other basic website interactions.
+
+![GA4 web stream created for the EverCharm Shopify website](web stream evidence.png){fig-align="center"}
+
+The screenshot shows the following information:
+
+-   Stream name: EverCharm Shopify Website
+-   Stream URL: [`https://wenting-practice-store.myshopify.com`](https://wenting-practice-store.myshopify.com)
+-   Measurement ID: `G-WE7RW1YH3C`
+-   Enhanced Measurement: Enabled
+
+# Shopify Connection Evidence
+
+After creating the new GA4 web stream, I connected Google Analytics through the Google & YouTube sales channel in Shopify. The Google Analytics section displayed a green Active status. This confirmed that Google Analytics had been connected to the Shopify store.
+
+![Google Analytics shown as active in the Shopify Google and YouTube sales channel](Shopify connection evidence.png){fig-align="center"}
+
+# Analytics or Data Collection Evidence
+
+Because the newly connected GA4 property did not immediately show realtime activity, I also reviewed the analytics available in Shopify.
+
+Shopify Analytics showed that the online store had recorded 200 sessions during Jun30-Jul 31,2026. It also provided information about traffic trends, device type, visitor location, and the conversion funnel.
+
+![Shopify Analytics showing store sessions and conversion information](Analytics or Data Collection Evidence.png){fig-align="center"}
+
+The report showed:
+
+-   200 online store sessions
+-   All recorded sessions were from desktop devices
+-   Sessions were recorded from several locations
+-   Conversion rate was 0%
+-   Added to cart was 0
+-   Reached checkout was 0
+-   Completed purchases were 0
+
+# Technical Issue Documentation
+
+During the setup process, I experienced a delay in receiving data in the new GA4 property.
+
+After connecting Google Analytics through Shopify, I opened the GA4 Realtime Overview and tested the website by visiting the homepage and viewing product pages. However, the report still showed zero active users and no available events at the time of testing. I refreshed the GA4 Realtime page several times, but no active users or events appeared immediately. Since GA4 was not showing any data at that time, I opened Shopify Analytics to check whether the store had already recorded website activity.
+
+![GA4 Realtime report showing no data immediately after setup](Technical Issue Documentation.png){fig-align="center"}
+
+# CPP Farm Store Analytics Reflection
+
+GA4 and Shopify Analytics can help CPP Farm Store understand what customers do after they enter the online store. The store can see which pages get more attention, which products customers are viewing, and how long they stay on the website. It can also show if customers continue from a product page to the shopping cart or just leave the website.
+
+These analytics tools can also help the store compare different marketing channels. For example, CPP Farm Store may promote seasonal fruits, gift baskets, honey, or other products through Instagram, email, Google search, or direct website links. The data can show which channel bring more visitors and which promotion create more customer interest.
+
+Another useful way is comparing customer behavior in different seasons. Some products may get more views during holidays, campus events, or harvesting periods. CPP Farm Store can use this information to decide what products should be featured on the homepage and what items need more promotion.
+
+The store can also track shopping actions, such as product views, add-to-cart activity, checkout activity, and completed purchases. If many customers view one product but do not add it into the cart, the store may need to improve the product description, image, price, or availability information.
+
+Overall, GA4 and Shopify Analytics can help CPP Farm Store make better decisions about products, website design, seasonal promotions, and marketing channels. These data can support both the Shopify store and the physical Farm Store.
+
+# 
