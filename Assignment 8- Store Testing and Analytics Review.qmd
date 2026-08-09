@@ -1,0 +1,159 @@
+---
+title: "Assignment 8: Store Testing and Analytics Review"
+author: "Your Name"
+date: "August 9, 2026"
+format:
+  html:
+    toc: true
+    embed-resources: true
+---
+
+---
+title: "Assignment 8: Store Testing and Analytics Review"
+author: "Your Name"
+date: "August 9, 2026"
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    embed-resources: true
+    theme: cosmo
+---
+
+# EverCharm Store Testing and Analytics Review
+
+## 1. Customer Journey Test
+
+The purpose of this test was to evaluate the EverCharm Shopify store from a customer's perspective and identify strengths and areas for improvement before the final submission.
+
+The customer journey tested was:
+
+**Homepage → Collections → Product Page → Shopping Cart → Checkout Preview**
+
+A real transaction was not completed. The shopping experience was tested only up to the point where a customer would proceed to checkout.
+
+### Homepage
+
+The EverCharm homepage provides a clean and elegant first impression. The large hero banner clearly communicates the brand message, **"Timeless Beauty, Every Day,"** and the **"Shop Collection"** button gives customers a clear call to action.
+
+![EverCharm Homepage](Homepage.png)
+
+### Collections Page
+
+The Collections page allows customers to browse different product groups. Large product images make the page visually attractive and help customers understand the types of jewelry available.
+
+The **Crystal Bracelets** **Premium Bracelets** **Rings**and **New Arrivals** collections are clear and customer-friendly. However, one collection is currently labeled **"Home page,"** which may confuse customers because it sounds like a website page rather than a product collection.
+
+![EverCharm Collections Page](collection.png)
+
+### Product Page
+
+After browsing the collections, I selected an individual product to review the product page experience.
+
+The product page provides customers with important information such as the product image, title, price, and purchasing options. The visual presentation matches the elegant style of the EverCharm brand.
+
+However, the product pages could provide more detailed information, such as materials, bracelet size, care instructions, crystal meaning, shipping information, and return policies. These details could help customers feel more confident before making a purchase.
+
+![EverCharm Product Page](product.png)
+
+### Shopping Cart
+
+After reviewing a product, I added it to the shopping cart.
+
+The cart allows customers to review their selected products before proceeding to checkout. The shopping flow is simple and easy to understand.
+
+The cart could be improved by making shipping information, return policies, and estimated fulfillment details more visible before customers move to checkout.
+
+![EverCharm Shopping Cart](cart.png)
+
+### Checkout Preview
+
+The final stage of the test was the checkout preview. No real transaction was completed. checkout experience should continue to maintain the same clean and trustworthy brand presentation as the rest of the website.
+
+![EverCharm Checkout Preview](checkout.png)
+
+# 2. Store Strengths
+
+The EverCharm Shopify store currently has several important strengths.
+
+## Strength 1: Attractive and Consistent Visual Design
+
+The strongest feature of the store is its visual presentation. The homepage uses soft colors, high-quality jewelry photography, and an elegant hero image that matches the EverCharm brand identity.
+
+The design feels consistent across the homepage and collection pages, which helps create a professional and trustworthy shopping experience.
+
+## Strength 2: High-Quality Product Photography
+
+The jewelry images are clear, bright, and visually appealing. Products are displayed in lifestyle settings as well as close-up arrangements, helping customers understand the appearance and style of each item.
+
+Strong product photography is especially important for jewelry because customers rely heavily on visual information when deciding whether they are interested in a product.
+
+## Strength 3: Simple Navigation
+
+The main navigation is easy to understand and includes links such as:
+
+-   Home
+-   Catalog
+-   New Arrivals
+-   Contact
+-   About Us
+
+This simple structure allows customers to move between important sections of the website without unnecessary complexity.
+
+# 3. Areas for Improvement
+
+Although the EverCharm store already has a strong visual foundation, several areas could be improved before final submission.
+
+## Improvement 1: Rename the "Home page" Collection
+
+The Collections page currently includes a collection labeled **"Home page."**
+
+This label may confuse customers because it appears to be a navigation page rather than a product category.
+
+A more descriptive name should be used, such as:
+
+-   Best Sellers
+-   Featured Collection
+-   Signature Jewelry
+-   Popular Picks
+
+This would make the collection structure more understandable and customer-friendly.
+
+## Improvement 2: Add More Detailed Product Information
+
+Product pages should include more complete information to help customers make purchase decisions.
+
+Useful information could include:
+
+-   Product materials
+-   Bracelet or ring size
+-   Crystal type
+-   Care instructions
+-   Shipping information
+-   Return policy
+-   Product meaning or inspiration
+
+Providing more detailed information could increase customer confidence and reduce uncertainty before purchase.
+
+## Improvement 3: Add Customer Trust Elements
+
+The store could include additional trust-building features such as:
+
+-   Customer reviews
+-   Star ratings
+-   Shipping information
+-   Return policy links
+-   FAQ section
+-   Secure checkout messaging
+
+Because EverCharm is an online jewelry brand, these elements could help new customers feel more comfortable purchasing from the store.
+
+# 4. Analytics Review
+
+Google Analytics 4 was reviewed as part of the store testing process. At the time of testing, the Realtime Overview showed no active users and no available analytics data. The dashboard displayed zero active users in both the last 30 minutes and the last 5 minutes, and no page views, events, traffic sources, or key events were available. Because the EverCharm Shopify store is still under development and has not yet been publicly launched, this result is expected. After the store is launched and begins receiving visitors, Google Analytics 4 can be used to monitor website traffic, product views, add-to-cart events, checkout activity, traffic sources, and conversions to evaluate customer behavior and overall store performance.
+
+![](analytic.png)
+
+# 5. Improvement Plan
+
+Before the final Shopify submission, I plan to make several improvements to the EverCharm store. I will first review the collection structure and rename unclear collections, especially the collection currently labeled "Home page," to make navigation more intuitive. I also plan to improve product pages by adding more complete information about materials, sizing, product details, shipping, return policies, and care instructions to help customers make informed purchasing decisions. In addition, I will strengthen customer trust by including clearer policies, customer reviews, FAQs, and shipping information where appropriate. Finally, I will continue testing the store on both desktop and mobile devices to ensure a consistent shopping experience across different screen sizes. Once Google Analytics 4 begins collecting real customer traffic, I will monitor user behavior, traffic sources, product views, cart activity, and checkout activity to identify further opportunities for improvement.
