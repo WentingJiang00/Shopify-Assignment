@@ -1,0 +1,90 @@
+---
+title: "Final Shopify Store Reflection Report"
+author: "Wenting Jiang"
+date: "August 17, 2026"
+format:
+  html:
+    embed-resources: true
+---
+
+## Store Overview
+
+For my Shopify project, I created an online jewelry store called **EverCharm**. The store focuses on elegant and affordable jewelry, including crystal bracelets, premium bracelets, and rings.
+
+The main target customers are people who enjoy simple, feminine, and meaningful jewelry for everyday wear or as gifts. I wanted the store to have a soft and elegant style, so I used light colors, clean product photography, and a simple layout.
+
+The store is organized into different collections, such as **Rings, Premium Bracelets, and Crystal Bracelets**, which makes it easier for customers to browse products based on their interests. I also added sections such as **New Arrivals, Contact, and About Us** to make the website feel more complete and professional.
+
+## Final Store Evidence
+
+### Homepage
+
+The homepage is designed to create a strong first impression and introduce the overall EverCharm brand style. I used a large banner with the message **“Timeless Beauty, Every Day”** and a clear **Shop Collection** button to guide customers toward the products.
+
+I also added featured products directly on the homepage so customers can quickly see popular or highlighted items without needing to search through the entire store.
+
+![](Homepage.png)
+
+### Product Catalog and Collections
+
+The catalog is divided into different product categories, including **Rings, Premium Bracelets, and Crystal Bracelets**. This makes the navigation more organized and helps customers find products more easily.
+
+For example, the Crystal Bracelets collection includes products with different colors, materials, and styles. Each product includes a clear image, product name, and price, which makes comparison easier for customers.
+
+![](collection.png)
+
+### Product Page
+
+EverCharm mainly focuses on crystal bracelets, and I opened one of the new arrivals, **Pastel Garden**, as an example. The product page includes multiple images, such as close-up detail shots, a wearing photo, and the original EverCharm packaging, so customers can see the product from different perspectives. It also includes the price, product description, quantity option, and purchase buttons, which make the product information clear and the shopping process easier.
+
+![](product.png)
+
+### Shopify Analytics Evidence
+
+This screenshot shows the Shopify Analytics dashboard for EverCharm. The store recorded 200 sessions during the selected period, and the dashboard also shows traffic by device, location, landing page, and conversion activity. This data helps me understand how customers enter and interact with the store and which pages receive the most traffic.
+
+![](Analytics.png)
+
+## Retail Technology Reflection
+
+Through this project, I learned how Shopify works as an e-commerce platform and how it can connect with other digital retail tools. I learned how to create products, organize collections, design pages, manage navigation, and improve the overall storefront.
+
+I also learned how to connect my Shopify store with **GA4** and **Google Merchant Center**. For Google Merchant Center, I used the Google & YouTube sales channel in Shopify, signed in with my Google account, completed the required store information, and synchronized my products to Google.
+
+During this process, I learned that an online store needs more than just products and a good design. It also needs complete policies, contact information, shipping information, and accurate product data in order to work well with platforms such as Google Merchant Center.
+
+I also learned how **Google Ads** can support an online store. Products can gain visibility through both free product listings and paid advertising, which can help increase traffic and product discovery.
+
+## Merchandising Reflection
+
+This project helped me understand how important product organization and presentation are in e-commerce.
+
+For EverCharm, I organized products into collections such as **Rings, Premium Bracelets, and Crystal Bracelets**. This makes it easier for customers to browse the store and quickly find the type of product they are interested in.
+
+I also paid attention to product presentation. For many products, I used several images, including close-up detail shots, wearing photos, and original EverCharm packaging images. This allows customers to see the product from different angles and better understand the style and quality before purchasing.
+
+I also learned that product titles, descriptions, prices, colors, and categories need to be clear and consistent. This became especially important when I connected the store to Google Merchant Center because some products were limited due to missing information such as shipping details, age group, and color attributes.
+
+## Analytics Reflection
+
+Through **GA4** and **Shopify Analytics**, I learned how to track website activity and customer behavior.
+
+Shopify Analytics helped me see store sessions, device types, customer locations, landing pages, and conversion activity. GA4 also allowed me to track active users, traffic sources, page views, and events.
+
+These tools showed me that analytics is useful for understanding how customers move through the store. For example, if customers visit the homepage but do not continue to product pages, the navigation or homepage may need improvement. If customers view products but do not complete a purchase, the product information or checkout process may need to be improved.
+
+I also learned that Google Ads and Google Merchant Center can work together with analytics. Free listings and paid advertising can bring traffic to the store, while GA4 and Shopify Analytics can help measure whether that traffic leads to product views, engagement, or purchases.
+
+## CPP Farm Store Application
+
+Shopify could help CPP Farm Store create a more organized online storefront for seasonal products, fresh items, and gift baskets. Google Merchant Center and Google Ads could improve product visibility and bring more traffic, while GA4 and Shopify Analytics could help track customer behavior and campaign performance.
+
+Together, these tools could create a stronger connection between online discovery and the physical Farm Store.
+
+## Final Self-Assessment
+
+I am most proud of the visual design and product presentation of EverCharm. I used consistent branding and multiple product images, including detail shots, wearing photos, and packaging images.
+
+More importantly, this course taught me the complete Shopify store-building process in great detail, from setting up the store and organizing products to connecting analytics and marketing tools. I am very grateful to have had this hands-on experience because it gave me a much clearer understanding of how an e-commerce store is actually built and managed.
+
+Although this project has ended, my online store journey is just beginning. I plan to continue adding more products, improving my Google Merchant Center information, and learning more about Google Ads and customer behavior.
